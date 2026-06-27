@@ -51,10 +51,3 @@ sudo usermod -aG wireshark $USER
 ```
 
 Cerrar sesión y volver a entrar para que el cambio tenga efecto.
-
-## Pendiente de instalar
-
-- Burp Suite (descarga manual del `.jar`)
-- aircrack-ng
-- hashcat
-- crackmapexec / medusa
